@@ -195,11 +195,11 @@ If you have a web site set up for your module, mention it here.
 
 =head1 AUTHOR
 
-root, E<lt>root@E<gt>
+gizmomathboy, E<lt>gizmomathboy@gmail.comE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2015 by root
+Copyright (C) 2015 by gizmomathboy
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.18.2 or,

@@ -1,7 +1,7 @@
 {
    "abstract" : "Perl extension for blah blah blah",
    "author" : [
-      "jkline <root@>"
+      "gizmomathboy <gizmomathboy@gmail.com>"
    ],
    "dynamic_config" : 0,
    "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.133380",

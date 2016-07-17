@@ -1,7 +1,7 @@
 ---
 abstract: 'Perl extension for blah blah blah'
 author:
-  - 'jkline <root@>'
+  - 'gizmomathboy <gizmomathboy@gmail.com>'
 build_requires:
   ExtUtils::MakeMaker: 0
 configure_requires:
